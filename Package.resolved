@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HanoyTowers",
+        "repositoryURL": "https://github.com/seadiem/HanoyTowers",
+        "state": {
+          "branch": "master",
+          "revision": "b50297e8f9c6fbce812f44be44f898b14ce681af",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-algorithms",
+        "repositoryURL": "https://github.com/apple/swift-algorithms",
+        "state": {
+          "branch": "main",
+          "revision": "e2fa131d62604027889fcf87bb4d024e6576ac66",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-numerics",
+        "repositoryURL": "https://github.com/apple/swift-numerics",
+        "state": {
+          "branch": null,
+          "revision": "0a5bc04095a675662cf24757cc0640aa2204253b",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
